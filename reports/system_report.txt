@@ -1,0 +1,28 @@
+================================
+       LINUX SYSTEM REPORT
+================================
+
+Hostname: ip-172-31-47-192
+Date: Sun Nov  1 22:45:54 UTC 2026
+Uptime: up 1 hour, 12 minutes
+
+===== DISK USAGE =====
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.8G  3.2G  3.6G  48% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  904K  182M   1% /run
+tmpfs            5.0M     0  5.0M   0% /run/lock
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+/dev/nvme0n1p16  881M  203M  617M  25% /boot
+/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
+tmpfs             91M   12K   91M   1% /run/user/1000
+
+===== MEMORY USAGE =====
+               total        used        free      shared  buff/cache   available
+Mem:           909Mi       324Mi       230Mi       2.7Mi       467Mi       585Mi
+Swap:             0B          0B          0B
+
+===== CPU INFORMATION =====
+CPU Architecture: x86_64
+CPU Count: 2
+CPU Model: Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz
